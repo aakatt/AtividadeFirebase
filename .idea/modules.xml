@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Autenticacao.iml" filepath="$PROJECT_DIR$/.idea/modules/Autenticacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Autenticacao.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Autenticacao.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Autenticacao.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Autenticacao.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Autenticacao.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Autenticacao.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Autenticacao.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Autenticacao.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
